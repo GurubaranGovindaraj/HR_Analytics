@@ -1,9 +1,9 @@
 # HR_Analytics
 It enables HR professionals to make informed decisions about workforce management, hiring and retention , which improves ROI(Return On Investment) and helps leaders make decisions to create better work environments ![image](https://github.com/GurubaranGovindaraj/HR_Analytics/assets/139849495/d6bcc31b-a132-415a-adf9-afd136e5ddca)
 
-KPI's and Metrics
+KPIS and Metrics
 1. Active employees count
-2. Hires adn Terminations count
+2. Hires and Terminations count
 3. Termination Rate
 4. Headcount Changes (YoY)
 5. Generational Breakdown Analysis
